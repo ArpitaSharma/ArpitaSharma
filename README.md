@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/[arpita-sharma-]" target="_blank">
+<a href="https://www.linkedin.com/in/arpita-sharma-/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
   <a href="mailto:arpita.tech1020@gmail.com">
