@@ -54,7 +54,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArpitaSharma&show_icons=true&theme=transparent&hide_border=true&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37" alt="Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArpitaSharma&show_icons=true&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&hide_border=true" alt="Stats" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:303030&height=50&section=footer" width="100%" alt="Footer" />
