@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/arpita-sharma-/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-  <a href="mailto:arpita.tech1020@gmail.com">
+  <a href="mailto:arpitasharma.ds@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 
@@ -55,6 +55,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArpitaSharma&show_icons=true&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&hide_border=true" alt="Stats" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=ArpitaSharma&label=Profile%20Views&color=D4AF37&style=flat-square" alt="Profile Views" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:303030&height=50&section=footer" width="100%" alt="Footer" />
